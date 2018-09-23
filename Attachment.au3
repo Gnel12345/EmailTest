@@ -7,7 +7,7 @@ $hd1 = WinActivate("Open")
 	If $hd1 <> 0 Then
 		ControlFocus("Open", "","Edit1")
 		Sleep(1000)
-		ControlSetText("Open","","Edit1","")
+		ControlSetText("Open","","Edit1","C:\Users\Glenns\Pictures\Glenn1.jpg")
 		Sleep(1000)
 		ControlClick("Open", "","Button1")
 		Exit

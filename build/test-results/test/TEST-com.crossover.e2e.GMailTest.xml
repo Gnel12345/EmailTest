@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.crossover.e2e.GMailTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-09-20T10:17:17" hostname="Glenns-HP" time="46.305">
-  <properties/>
-  <testcase name="testSendEmail" classname="com.crossover.e2e.GMailTest" time="46.305"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 27992
-Only local connections are allowed.
-]]></system-err>
-</testsuite>
